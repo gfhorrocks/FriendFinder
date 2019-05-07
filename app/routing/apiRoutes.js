@@ -1,7 +1,7 @@
 //API ROUTES
 //-------------------------------------------------------------
 
-var friendsData = require("../data/friendsData");
+var friends = require("../data/friends.js");
 
 module.exports = function (app) {
 
