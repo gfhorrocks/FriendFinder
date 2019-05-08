@@ -5,8 +5,8 @@
 
 var friendsData = [
     {
-      name: "Greg",
-      photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lion_waiting_in_Namibia.jpg/220px-Lion_waiting_in_Namibia.jpg",
+      name: "Greg Baseline",
+      photo: "https://i1.wp.com/78.media.tumblr.com/f82b52068e638e245e7638c2615d7e8e/tumblr_p27aynbQ4D1vqbvcbo3_540.gif?w=605&ssl=1",
       scores: [
         "1",
         "1",
