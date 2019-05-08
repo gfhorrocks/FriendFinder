@@ -8,6 +8,7 @@ module.exports = function (app) {
     app.get("/api/friends", function (req, res) {
         return res.json(friendsData);
     });
+
     //POST command for posting friend and returning the best result
     app.post("/api/friends", function (req, res) {
 
